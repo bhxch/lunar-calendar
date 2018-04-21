@@ -1,5 +1,5 @@
 
-CC = gcc
+CC = gcc-7
 CFLAGS = -Wall -O2
 LIBS = -lm -lpthread
 
